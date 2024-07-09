@@ -1,0 +1,6 @@
+__pycache__
+CL_results/hardware_results/
+CL_results/diamond_results/
+CL_results/trunk_results/
+OL_results/trunk/
+OL_results/diamond/
